@@ -5,8 +5,8 @@ import Home from "./pages/Home";
 import ProductDetails from "./pages/ProductDetails";
 
 import Sidebar from "./components/Sidebar";
-import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
